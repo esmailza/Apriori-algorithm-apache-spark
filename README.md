@@ -1,4 +1,4 @@
-# Priori-algorithm-apache-spark
+# Apriori-algorithm-apache-spark
 A simple implementation of Apriori algorithm to finnd the frequent itemsets and extract the association rules.
 
 ## Reading the data
